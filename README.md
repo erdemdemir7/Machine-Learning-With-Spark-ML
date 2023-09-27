@@ -1,2 +1,2 @@
 # Machine-Learning-With-Spark-ML
-Applications of EDA, Classification, Regression, Hyper-parameter tuning and Result Analysis implemented over the housing data by using Apache Spark.
+In Databricks, implemented applications of EDA, Classification, Regression, Hyper-parameter tuning and Result Analysis over the housing data by using Apache Spark.
